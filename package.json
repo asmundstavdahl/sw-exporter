@@ -10,7 +10,7 @@
     "pack": "webpack",
     "dist": "build",
     "dev": "webpack --watch"
-  }, 
+  },
   "build": {
     "productName": "Summoners War Exporter",
     "appId": "com.electron.sw-exporter",
@@ -84,11 +84,13 @@
     "http-proxy": "^1.17.0",
     "lodash": "^4.17.11",
     "mousetrap": "^1.6.3",
+    "mqtt": "^3.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
     "request": "^2.88.0",
     "sanitize-filename": "^1.6.1",
-    "semantic-ui-react": "^0.87.1"
+    "semantic-ui-react": "^0.87.1",
+    "yargs": "^13.2.4"
   }
 }
